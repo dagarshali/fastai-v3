@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://www.googleapis.com/drive/v3/files/13G8TBngSsblSf6rLhQ6tazfdYLct2h5l?alt=media&key=AIzaSyBJkR_8bc-4RRSjMAfhhVbvAoKAKHsjxZ4'
+export_file_url = 'https://www.googleapis.com/drive/v3/files/1gWdi3gvnaywDrEuCWphDsuFGOQAcn3qJ?alt=media&key=AIzaSyBJkR_8bc-4RRSjMAfhhVbvAoKAKHsjxZ4'
 export_file_name = 'export.pkl'
 
 classes = ['AM_General_Hummer_SUV_2000',
